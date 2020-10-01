@@ -152,6 +152,10 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
     Settings \
     SystemUI
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    Remove_Packages
+
 # Telephony
 PRODUCT_PACKAGES += \
     ims-ext-common \
