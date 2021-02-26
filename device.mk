@@ -24,9 +24,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/qcom/opensource/commonsys-intf/bluetooth/overlay/generic
 
-# Camera
+# GCam
 PRODUCT_PACKAGES += \
-    Camera2
+    GoogleCameraGo
 
 # Charger
 PRODUCT_PACKAGES += \
