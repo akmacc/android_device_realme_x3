@@ -58,6 +58,9 @@ persist.mm.enable.prefetch=true
 ro.media.recorder-max-base-layer-fps=60
 vendor.mm.enable.qcom_parser=45987058
 
+# System
+persist.sys.binary_xml=false
+
 # One-handed mode
 ro.support_one_handed_mode=true
 
