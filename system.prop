@@ -84,3 +84,6 @@ ro.telephony.default_network=22,22
 
 # Rescue Party
 persist.sys.disable_rescue=true
+
+# WFD
+media.wfd.max_resolution=8
