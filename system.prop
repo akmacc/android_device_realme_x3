@@ -42,6 +42,7 @@ ro.com.google.clientidbase.tx=android-oppo
 ro.com.google.clientidbase.vs=android-oppo
 
 # Graphics
+debug.sf.auto_latch_unsignaled=true
 debug.sf.disable_client_composition_cache=1
 vendor.display.idle_time=32767
 ro.config.avoid_gfx_accel=true
