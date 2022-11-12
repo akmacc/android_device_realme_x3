@@ -68,3 +68,6 @@ persist.vendor.radio.process_sups_ind=1
 ro.soc.manufacturer=QTI
 ro.soc.model=SM8150
 
+#Product
+ro.product.name=RMX2081
+ro.product.product.device=RMX2081
