@@ -85,6 +85,8 @@ persist.vendor.ims.disableDebugLogs=1
 persist.vendor.ims.disableIMSLogs=1
 persist.vendor.ims.disableQXDMLogs=1
 ro.telephony.default_network=22,22
+persist.vendor.qti.telephony.vt_cam_interface=2
+
 
 # Rescue Party
 persist.sys.disable_rescue=true
