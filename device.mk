@@ -48,6 +48,10 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 PRODUCT_PACKAGES += \
     RealmeDoze
 
+# DT2W
+PRODUCT_PACKAGES += \
+    DT2W-Service-x3
+
 # Fastbootd
 PRODUCT_PACKAGES += \
     fastbootd

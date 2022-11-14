@@ -161,6 +161,12 @@ on property:sys.boot_completed=1
 on property:gsm.version.baseband=*
     start set_baseband
 
+on property:persist.sys.dt2w=0
+    write /proc/touchpanel/double_tap_enable 0
+
+on property:persist.sys.dt2w=1
+    write /proc/touchpanel/double_tap_enable 1
+
 service set_baseband /product/bin/init.set_baseband.sh
     class late_start
     user system
