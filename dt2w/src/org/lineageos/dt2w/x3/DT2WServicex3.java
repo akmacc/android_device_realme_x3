@@ -13,7 +13,7 @@ import android.os.SystemProperties;
 import android.os.UserHandle;
 import android.provider.Settings.Secure;
 
-public class DT2WServiceNashc extends Service {
+public class DT2WServicex3 extends Service {
     private static final String TAG = "DT2WServicex3";
     private Context mContext;
     private Handler mHandler;
