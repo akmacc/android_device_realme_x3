@@ -44,6 +44,7 @@ ro.com.google.clientidbase.vs=android-oppo
 # Graphics
 debug.sf.disable_client_composition_cache=1
 vendor.display.idle_time=32767
+ro.config.avoid_gfx_accel=true
 
 # IORap app launch prefetching using Perfetto traces and madvise
 ro.iorapd.enable=false 
