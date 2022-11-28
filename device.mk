@@ -44,6 +44,9 @@ WITH_DEXPREOPT_DEBUG_INFO := false
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
+# Speed profile services and wifi-service to reduce RAM and storage
+PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
+
 # Doze
 PRODUCT_PACKAGES += \
     RealmeDoze
