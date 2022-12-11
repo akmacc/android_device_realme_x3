@@ -150,7 +150,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     Settings \
-    SystemUI
+    SystemUIGoogle
 
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
