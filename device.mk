@@ -26,7 +26,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
 
 # GCam
 PRODUCT_PACKAGES += \
-    GoogleCameraGo
+    GCamGOPrebuilt-V3 
 
 # Charger
 PRODUCT_PACKAGES += \

@@ -1111,6 +1111,7 @@
     <string-array name="config_cameraAuxPackageAllowList" translatable="false">
         <item>org.codeaurora.snapcam</item>
         <item>com.android.camera</item>
+        <item>com.google.android.apps.cameralite</item>
         <item>org.lineageos.aperture</item>
         <item>org.lineageos.aperture.dev</item>
     </string-array>
