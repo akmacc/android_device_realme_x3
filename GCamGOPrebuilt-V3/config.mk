@@ -1,0 +1,1 @@
+PRODUCT_PACKAGES +=GCamGOPrebuilt-V3
